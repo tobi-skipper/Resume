@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 1.25em;
+}
+
+h1 {
+  position: relative;
+  top: 0.25em;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 6.25rem;
+}
+
+h3 {
+  font-family: serif;
+  font-size: 2rem;
+  position: relative;
+  bottom: 1.5em;
+}
+h2{
+  font-family: serif;
+  font-size: 3rem;
+
+}
+
+.EPP {
+  font-weight: lighter;
+}
+
+.laugh {
+  margin-bottom: 2em;
+}
+
+.animoji {
+  border-radius: 50%;
+
+}
+
+
+
+.skill-row {
+
+  width: 50%;
+  margin: auto;
+  margin-top: 6.25em;
+  margin-bottom: 6.25em;
+  line-height: 2;
+  text-align: left;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+
+
+}
+
+.skill {}
+
+.giphy {
+  width: 50%;
+  float: left;
+  margin-right: 2em;
+}
+
+.giphy-eat {
+  width: 50%;
+  float: right;
+  margin-left: 2em;
+}
+.social{
+  width: 5%;
+
+}
+.number{
+  font-size: 2rem;
+
+
+
+}
+.contact-me{
+  background-color: #9be3de;
+}
+.pitch{
+  color: red;
+}
